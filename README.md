@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knowtoit&label=Profile%20views&color=0e75b6&style=flat" alt="knowtoit" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/Sai_3196" target="blank"><img src="https://img.shields.io/twitter/follow/knowtoit?logo=twitter&style=for-the-badge" alt="knowtoit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sai_3196" target="blank"><img src="https://img.shields.io/twitter/follow/Sai_3196?logo=twitter&style=for-the-badge" alt="knowtoit" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Technologies**
 
