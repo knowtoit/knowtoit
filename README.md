@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Sai_3196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knowtoit" height="30" width="40" /></a>
+<a href="https://twitter.com/Sai_3196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sai" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aishwarya-chaudhari-979250194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aishwarya" height="30" width="40" /></a>
 </p>
 
