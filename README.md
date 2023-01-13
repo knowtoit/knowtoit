@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-[![Aishwarya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=knowtoit&&theme=xcode)](https://github.com/knowtoit)
+[![Aishwarya's GitHub activity graph](https://github-readme-stats.vercel.app/api/pin/?username=knowtoit&&theme=xcode)](https://github.com/knowtoit)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=knowtoit&show_icons=true&locale=en&layout=compact" alt="knowtoit" /></p>
 
