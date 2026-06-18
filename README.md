@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 🙏, I'm Aishwarya Chaudhari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knowtoit&label=Profile%20views&color=0e75b6&style=flat" alt="knowtoit" /> </p>
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 💬 Ask me about **FRONTEND and  DSA**
+- 💬 Ask me about **FRONTEND, BACKEND, DATABASE, DSA & OS**
 
 - 📫 How to reach me **saichaudharid@gmail.com**
 
